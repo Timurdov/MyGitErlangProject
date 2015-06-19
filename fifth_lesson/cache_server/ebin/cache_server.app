@@ -1,0 +1,7 @@
+{application,cache_server,
+             [{description,"An Erlang cache_server library"},
+              {vsn,"1"},
+              {modules,[cache_server]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]}]}.
